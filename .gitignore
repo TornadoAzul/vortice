@@ -3,9 +3,9 @@
 .AppleDouble
 .LSOverride
 
-# Obsidian workspace files (optional - uncomment if you don't want to sync)
-# .obsidian/workspace
-# .obsidian/workspace.json
+# Obsidian workspace (opcional - contiene configuración local de ventanas)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
 
 # Thumbnails
 ._*
