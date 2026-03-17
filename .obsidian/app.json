@@ -1,0 +1,16 @@
+{
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "media",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "inbox",
+  "showFrontmatter": true,
+  "foldHeading": false,
+  "foldIndent": false,
+  "showLineNumber": false,
+  "strictLineBreaks": false,
+  "readableLineLength": true,
+  "showInlineTitle": true,
+  "promptDelete": true,
+  "spellcheck": true,
+  "defaultViewMode": "source"
+}
