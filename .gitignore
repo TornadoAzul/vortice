@@ -1,0 +1,6 @@
+# macOS
+.DS_Store
+
+# Obsidian workspace (opcional - contiene configuración local de ventanas)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
